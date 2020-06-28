@@ -6,8 +6,8 @@ html = """
                 second number = <input type = "number" name = "second_num"><br><br>
                 <input type = "submit">
         </form>
-            Sum = %(sum)d<br>
-            Mul = %(mul)d<br>
+            Sum = %(sum)s<br>
+            Mul = %(mul)s<br>
     </body>
 </html>
 """
